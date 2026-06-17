@@ -1,0 +1,10 @@
+[project]
+name = "fastpifu-skills"
+version = "0.1.0"
+description = "Skills and Prompts for FastPIFU"
+readme = "README.md"
+requires-python = ">=3.14"
+authors = [{ name = "vvcb", email = "vvcb.n1@gmail.com" }]
+dependencies = [
+    "zensical>=0.0.45",
+]
