@@ -1,30 +1,31 @@
 # FastPIFU skill suite
 
-Eleven self-contained, offline FastPIFU skills — one per specialty in the GIRFT Outpatient
-Operational Guide (Module 2), plus shared authoring scaffolding.
+A FastPIFU orchestrator prompt plus eleven self-contained, offline specialty skills — one per
+specialty in the GIRFT Outpatient Operational Guide (Module 2).
 
 ```
 fastpifu-suite/
-├── _authoring/          shared templates (skill-template.md, condition-template.md, README.md)
-├── fastpifu-cardiology/ (AF, aortic stenosis, heart failure, chest pain, LBBB, POTS, non-pathway)
+├── fastpifu-orchestrator-prompt.md   the universal PIFU logic — load as the orchestrator's system prompt
+├── _authoring/                       templates + generator (skill-template, condition-template, README, generate_skills.py, skills_data.py)
+├── fastpifu-cardiology/              SKILL.md + references/ (per condition)
 ├── fastpifu-dermatology/
-├── fastpifu-ent/
-├── fastpifu-gastroenterology/
-├── fastpifu-general-surgery/
-├── fastpifu-gynaecology/
-├── fastpifu-ophthalmology/
-├── fastpifu-omfs/
-├── fastpifu-orthopaedics/
-├── fastpifu-spinal/
-└── fastpifu-urology/
+├── fastpifu-ent/   fastpifu-gastroenterology/   fastpifu-general-surgery/   fastpifu-gynaecology/
+├── fastpifu-ophthalmology/   fastpifu-omfs/   fastpifu-orthopaedics/   fastpifu-spinal/   fastpifu-urology/
 ```
 
-Each skill: a lean SKILL.md (shared four-disposition PIFU logic + specialty routing) plus one
-references/<condition>.md per condition, in the common template. Every skill is offline — all
-criteria are bundled; published guidance is cited for provenance only.
+## How it composes
 
-The condition files are FIRST-DRAFT scaffolds derived faithfully from the operational guide. They
-are intended for the specialty clinical leads to enrich via _authoring/condition-template.md, adding
-the concrete "supported when" thresholds the guide does not always specify.
+The universal reasoning (four dispositions, safety asymmetry, discharge-first, SOP checklist, output
+format, confidence calibration, universal hard rules) lives ONCE in
+`fastpifu-orchestrator-prompt.md`. The orchestrator runs with that prompt plus one specialty skill
+loaded. Each SKILL.md is now lean and holds only the specialty delta: its condition routing table,
+its data-gap cautions, and its specialty-specific hard rules. The per-condition clinical criteria
+live in each skill's `references/` folder.
 
-Regenerate the ten guide-derived skills any time from generate_skills.py + skills_data.py.
+Skills carry no run-time logic about fetching or networking — offline operation is a property of the
+deployment environment (no egress), not an instruction in the files. Provenance for each criterion
+is in that reference file's `Source:` line, for audit.
+
+The ten guide-derived skills regenerate from `_authoring/generate_skills.py` + `_authoring/skills_data.py`.
+The condition files are first-draft scaffolds at the guide's level of specificity, for the specialty
+leads to enrich via `_authoring/condition-template.md`.

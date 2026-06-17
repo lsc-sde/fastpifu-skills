@@ -71,3 +71,15 @@ packages the skill.
 Each skill folder is version-controlled. Condition files carry their author, reviewer, and date.
 Changes are reviewed and clinically signed off before deployment, and releases are tagged — the
 git history is the audit trail for which criteria version produced a given disposition.
+
+
+## Where the shared logic lives (read this first)
+
+The universal PIFU reasoning is NOT in the skills. It lives once in
+`fastpifu-orchestrator-prompt.md` (a system-prompt fragment for the orchestrator): the four
+dispositions, the safety asymmetry, the discharge-first principle, the SOP checklist, the output
+format, confidence calibration, and the universal hard rules. The orchestrator always runs with one
+specialty skill loaded, and the skill supplies only that specialty's delta — its condition routing
+table, its data-gap cautions, and its specialty-specific hard rules. This keeps a single source of
+truth for the safety logic and keeps every SKILL.md short. Change shared logic in the orchestrator
+prompt; change a specialty in its SKILL.md; change a condition in its references file.
