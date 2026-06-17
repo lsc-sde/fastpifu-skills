@@ -1,8 +1,7 @@
 ---
 name: fastpifu-<<SPECIALTY>>          # e.g. fastpifu-neurology, fastpifu-urology
 description: >
-  Assess a <<SPECIALTY>> patient for PIFU (Patient-Initiated Follow-Up) suitability from their
-  clinical documents and return a follow-up disposition. Use when deciding what should happen next
+  Use when deciding what should happen next
   with a <<SPECIALTY>> patient's follow-up — whether they can move to patient-initiated follow-up,
   be discharged, or stay in timed follow-up. Covers <<LIST THE CONDITIONS THIS SKILL HANDLES>>.
 ---

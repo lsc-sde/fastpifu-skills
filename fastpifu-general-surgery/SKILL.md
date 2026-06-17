@@ -1,8 +1,7 @@
 ---
 name: fastpifu-general-surgery
 description: >
-  Assess a general surgery patient for PIFU (Patient-Initiated Follow-Up) suitability from their
-  clinical documents and return a follow-up disposition. Use when deciding what should happen next
+  Use when deciding what should happen next
   with a general surgery patient's follow-up — whether they can move to patient-initiated follow-up,
   be discharged, or stay in timed follow-up. Covers general-surgery day-case pathways (inguinal and paraumbilical hernia, laparoscopic cholecystectomy, pilonidal sinus) and colorectal pathways (haemorrhoids, anal fissure, anal fistula, colorectal resection).
 ---

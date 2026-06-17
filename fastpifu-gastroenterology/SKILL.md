@@ -1,8 +1,7 @@
 ---
 name: fastpifu-gastroenterology
 description: >
-  Assess a gastroenterology patient for PIFU (Patient-Initiated Follow-Up) suitability from their
-  clinical documents and return a follow-up disposition. Use when deciding what should happen next
+  Use when deciding what should happen next
   with a gastroenterology patient's follow-up — whether they can move to patient-initiated follow-up,
   be discharged, or stay in timed follow-up. Covers stable cirrhosis, hyperferritinaemia/haemochromatosis, hepatitis B, auto-immune liver disease, MASLD, alcohol-related liver disease, inflammatory bowel disease and iron-deficiency anaemia.
 ---

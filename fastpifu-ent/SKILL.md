@@ -1,8 +1,7 @@
 ---
 name: fastpifu-ent
 description: >
-  Assess a ent patient for PIFU (Patient-Initiated Follow-Up) suitability from their
-  clinical documents and return a follow-up disposition. Use when deciding what should happen next
+  Use when deciding what should happen next
   with a ent patient's follow-up — whether they can move to patient-initiated follow-up,
   be discharged, or stay in timed follow-up. Covers endoscopic sinus surgery, nasal septoplasty, functional septorhinoplasty, paediatric otitis media with effusion (grommets) and paediatric day-case adenotonsillectomy.
 ---

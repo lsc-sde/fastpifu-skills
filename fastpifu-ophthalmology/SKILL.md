@@ -1,8 +1,7 @@
 ---
 name: fastpifu-ophthalmology
 description: >
-  Assess a ophthalmology patient for PIFU (Patient-Initiated Follow-Up) suitability from their
-  clinical documents and return a follow-up disposition. Use when deciding what should happen next
+  Use when deciding what should happen next
   with a ophthalmology patient's follow-up — whether they can move to patient-initiated follow-up,
   be discharged, or stay in timed follow-up. Covers cataract surgery, age-related macular degeneration (AMD), diabetic macular oedema (DMO) and glaucoma, including virtual/asynchronous review pathways.
 ---

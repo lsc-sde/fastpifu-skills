@@ -1,8 +1,7 @@
 ---
 name: fastpifu-urology
 description: >
-  Assess a urology patient for PIFU (Patient-Initiated Follow-Up) suitability from their
-  clinical documents and return a follow-up disposition. Use when deciding what should happen next
+  Use when deciding what should happen next
   with a urology patient's follow-up — whether they can move to patient-initiated follow-up,
   be discharged, or stay in timed follow-up. Covers benign urology conditions (stones, bladder-outlet obstruction, erectile dysfunction, LUTS/overactive bladder, bladder pain syndrome, pelvic floor disorders, long-term ISC, post-Peyronie's, recurrent UTI) and urological cancer remote-monitoring (bladder, prostate, kidney).
 ---

@@ -1,8 +1,7 @@
 ---
 name: fastpifu-omfs
 description: >
-  Assess a oral and maxillofacial surgery patient for PIFU (Patient-Initiated Follow-Up) suitability from their
-  clinical documents and return a follow-up disposition. Use when deciding what should happen next
+  Use when deciding what should happen next
   with a oral and maxillofacial surgery patient's follow-up — whether they can move to patient-initiated follow-up,
   be discharged, or stay in timed follow-up. Covers OMFS surgical pathways (dentoalveolar surgery, jaw cysts, facial fractures, orthognathic osteotomy, skin lesions) and non-surgical oral-mucosal conditions, TMJ problems and myofascial pain.
 ---

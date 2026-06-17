@@ -1,8 +1,7 @@
 ---
 name: fastpifu-spinal
 description: >
-  Assess a spinal patient for PIFU (Patient-Initiated Follow-Up) suitability from their
-  clinical documents and return a follow-up disposition. Use when deciding what should happen next
+  Use when deciding what should happen next
   with a spinal patient's follow-up — whether they can move to patient-initiated follow-up,
   be discharged, or stay in timed follow-up. Covers lumbar facet-joint (medial branch block) and nerve-root-block injections, posterior lumbar decompression/discectomy, and the adolescent idiopathic scoliosis pathway.
 ---
