@@ -11,8 +11,8 @@ in the orchestrator system prompt. This file is general surgery-specific only. -
 
 # FastPIFU — General surgery
 
-General surgery PIFU assessment. Routing, cautions, and hard rules specific to general surgery; apply
-under the FastPIFU orchestrator's universal operating instructions.
+General surgery PIFU assessment.
+Routing, cautions, and hard rules specific to general surgery; apply under the FastPIFU orchestrator's universal operating instructions.
 
 ## Condition routing
 

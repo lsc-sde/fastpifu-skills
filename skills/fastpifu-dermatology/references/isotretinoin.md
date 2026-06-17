@@ -21,4 +21,5 @@ Isotretinoin course follow-up, governed by the MHRA pregnancy-prevention program
 
 ## Source
 
-MHRA isotretinoin guidance. GIRFT Outpatient Operational Guide, Module 2: Standardising follow-up protocols (updated June 2026).
+MHRA isotretinoin guidance.
+GIRFT Outpatient Operational Guide, Module 2: Standardising follow-up protocols (updated June 2026).

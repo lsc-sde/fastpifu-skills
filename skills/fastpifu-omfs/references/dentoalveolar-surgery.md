@@ -23,4 +23,5 @@ Simple dentoalveolar surgery (extractions, surgical removals, apical surgery, ex
 
 ## Source
 
-BAOMS SIGs; SDCEP MRONJ guidance. GIRFT Outpatient Operational Guide, Module 2: Standardising follow-up protocols (updated June 2026).
+BAOMS SIGs; SDCEP MRONJ guidance.
+GIRFT Outpatient Operational Guide, Module 2: Standardising follow-up protocols (updated June 2026).

@@ -22,4 +22,5 @@ Non-surgical oral-mucosal conditions: dry mouth, geographic tongue (erythema mig
 
 ## Source
 
-NICE; BAOMS SIGs. GIRFT Outpatient Operational Guide, Module 2: Standardising follow-up protocols (updated June 2026).
+NICE; BAOMS SIGs.
+GIRFT Outpatient Operational Guide, Module 2: Standardising follow-up protocols (updated June 2026).

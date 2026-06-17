@@ -13,8 +13,8 @@ in the orchestrator system prompt. This file is cardiology-specific only. -->
 
 # FastPIFU — Cardiology
 
-Cardiology PIFU assessment. Routing, cautions, and hard rules specific to cardiology; apply under
-the FastPIFU orchestrator's universal operating instructions.
+Cardiology PIFU assessment.
+Routing, cautions, and hard rules specific to cardiology; apply under the FastPIFU orchestrator's universal operating instructions.
 
 ## Condition routing
 
@@ -30,19 +30,14 @@ the FastPIFU orchestrator's universal operating instructions.
 
 ## Specialty-specific cautions (data-gap traps)
 
-- A patient who feels well but has a falling eGFR after ARNI, rising LFTs on amiodarone, or
-  hyperkalaemia on an MRA/ARNI — the bloods, not the narrative, decide.
+- A patient who feels well but has a falling eGFR after ARNI, rising LFTs on amiodarone, or hyperkalaemia on an MRA/ARNI — the bloods, not the narrative, decide.
 - An echo that reads "stable" but whose rate of change between studies is the red flag.
-- A suitable primary condition with a co-medication needing secondary-care monitoring (e.g. variable
-  INR on a mechanical valve).
+- A suitable primary condition with a co-medication needing secondary-care monitoring (e.g. variable INR on a mechanical valve).
 - A deferred plan ("will reassess after uptitration") — PIFU is premature.
 
 ## Specialty-specific hard rules
 
-- Recent hospitalisation < 6 months (heart failure) or cardioversion < 3 months (arrhythmia)
-  excludes PIFU — rationale: high early-deterioration risk regardless of current appearance.
-- ICD with recent therapies, or any cardiac device without remote monitoring in place, excludes
-  PIFU — rationale: requires scheduled device review.
-- Newly initiated class I/III antiarrhythmic (amiodarone, flecainide, sotalol) excludes PIFU —
-  rationale: active secondary-care monitoring requirement.
+- Recent hospitalisation < 6 months (heart failure) or cardioversion < 3 months (arrhythmia) excludes PIFU — rationale: high early-deterioration risk regardless of current appearance.
+- ICD with recent therapies, or any cardiac device without remote monitoring in place, excludes PIFU — rationale: requires scheduled device review.
+- Newly initiated class I/III antiarrhythmic (amiodarone, flecainide, sotalol) excludes PIFU — rationale: active secondary-care monitoring requirement.
 - Low/sub-therapeutic GDMT doses are not "optimised" without a documented clinical ceiling reason.

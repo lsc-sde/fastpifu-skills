@@ -5,7 +5,8 @@
 
 ## Scope
 
-Sagittal-split / vertical-ramus / Le Fort I osteotomy on the orthognathic pathway. Excludes osteotomies requiring post-operative intermaxillary fixation.
+Sagittal-split / vertical-ramus / Le Fort I osteotomy on the orthognathic pathway.
+Excludes osteotomies requiring post-operative intermaxillary fixation.
 
 ## PIFU — suitable for patient-initiated follow-up
 
@@ -25,4 +26,5 @@ Sagittal-split / vertical-ramus / Le Fort I osteotomy on the orthognathic pathwa
 
 ## Source
 
-BAOMS SIGs. GIRFT Outpatient Operational Guide, Module 2: Standardising follow-up protocols (updated June 2026).
+BAOMS SIGs.
+GIRFT Outpatient Operational Guide, Module 2: Standardising follow-up protocols (updated June 2026).

@@ -5,7 +5,8 @@
 
 ## Scope
 
-ArLD without decompensation; disposition driven by fibrosis stage and risk factors. Signpost to alcohol services.
+ArLD without decompensation; disposition driven by fibrosis stage and risk factors.
+Signpost to alcohol services.
 
 ## PIFU — suitable for patient-initiated follow-up
 

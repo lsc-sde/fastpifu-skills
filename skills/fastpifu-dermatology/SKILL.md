@@ -11,8 +11,8 @@ in the orchestrator system prompt. This file is dermatology-specific only. -->
 
 # FastPIFU — Dermatology
 
-Dermatology PIFU assessment. Routing, cautions, and hard rules specific to dermatology; apply
-under the FastPIFU orchestrator's universal operating instructions.
+Dermatology PIFU assessment.
+Routing, cautions, and hard rules specific to dermatology; apply under the FastPIFU orchestrator's universal operating instructions.
 
 ## Condition routing
 

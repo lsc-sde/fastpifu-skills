@@ -24,4 +24,5 @@ Psoriasis/eczema managed topically, on phototherapy, or on systemics/biologics.
 
 ## Source
 
-GIRFT/BAD; NICE/BAD eczema & psoriasis pathways. GIRFT Outpatient Operational Guide, Module 2: Standardising follow-up protocols (updated June 2026).
+GIRFT/BAD; NICE/BAD eczema & psoriasis pathways.
+GIRFT Outpatient Operational Guide, Module 2: Standardising follow-up protocols (updated June 2026).

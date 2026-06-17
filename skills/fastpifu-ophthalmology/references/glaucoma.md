@@ -5,7 +5,8 @@
 
 ## Scope
 
-Glaucoma and ocular hypertension via single-point-of-access triage and a Diagnostic Asynchronous Virtual Review Assessment Pathway (DAVRAP). Intervals and discharge per GIRFT Best Practice for Glaucoma Services.
+Glaucoma and ocular hypertension via single-point-of-access triage and a Diagnostic Asynchronous Virtual Review Assessment Pathway (DAVRAP).
+Intervals and discharge per GIRFT Best Practice for Glaucoma Services.
 
 ## PIFU — suitable for patient-initiated follow-up
 
@@ -26,4 +27,5 @@ Per GIRFT Best Practice for Glaucoma Services follow-up interval tables (months 
 
 ## Source
 
-GIRFT Best Practice for Glaucoma Services. GIRFT Outpatient Operational Guide, Module 2: Standardising follow-up protocols (updated June 2026).
+GIRFT Best Practice for Glaucoma Services.
+GIRFT Outpatient Operational Guide, Module 2: Standardising follow-up protocols (updated June 2026).

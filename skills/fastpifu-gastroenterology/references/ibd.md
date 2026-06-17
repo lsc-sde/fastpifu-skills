@@ -5,7 +5,8 @@
 
 ## Scope
 
-Suspected/confirmed IBD; stable patients suit remote monitoring and PIFU. Surveillance independent of clinic.
+Suspected/confirmed IBD; stable patients suit remote monitoring and PIFU.
+Surveillance independent of clinic.
 
 ## PIFU — suitable for patient-initiated follow-up
 
@@ -36,4 +37,5 @@ Suspected/confirmed IBD; stable patients suit remote monitoring and PIFU. Survei
 
 ## Source
 
-BSG IBD guidelines. GIRFT Outpatient Operational Guide, Module 2: Standardising follow-up protocols (updated June 2026).
+BSG IBD guidelines.
+GIRFT Outpatient Operational Guide, Module 2: Standardising follow-up protocols (updated June 2026).

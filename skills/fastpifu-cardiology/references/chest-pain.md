@@ -5,22 +5,20 @@
 
 ## Scope
 
-New presentation of chest pain with suspected cardiac origin, assessed via a Rapid Access Chest
-Pain Clinic (RACPC), often ACP-led, with ECG, CTCA or functional imaging. Disposition depends on
-risk and whether intervention is needed.
+New presentation of chest pain with suspected cardiac origin, assessed via a Rapid Access Chest Pain Clinic (RACPC), often ACP-led, with ECG, CTCA or functional imaging.
+Disposition depends on risk and whether intervention is needed.
 
 ## PIFU — suitable for patient-initiated follow-up
 
-- Criterion: Assessment complete, no high-risk features, on stable anti-anginal/secondary
-  prevention. Supported when: investigations concluded and management plan settled.
-- Criterion: Post-PCI outcome assessment can be done virtually. Supported when: symptoms reviewed
-  remotely and recovery uncomplicated.
+- Criterion: Assessment complete, no high-risk features, on stable anti-anginal/secondary prevention.
+  Supported when: investigations concluded and management plan settled.
+- Criterion: Post-PCI outcome assessment can be done virtually.
+  Supported when: symptoms reviewed remotely and recovery uncomplicated.
 - Criterion: Symptoms requiring reassessment can be delivered via (nurse-led) PIFU/SPoA.
 
 ## RETAIN_FOLLOW_UP — timed specialist follow-up still needed
 
-- High-risk features — coronary angiogram ± invasive imaging/physiological assessment and MDT
-  discussion as appropriate.
+- High-risk features — coronary angiogram ± invasive imaging/physiological assessment and MDT discussion as appropriate.
 - Anti-anginal medication being initiated/titrated, or secondary prevention not yet optimised.
 - Pending investigations (CTCA, functional imaging) that would change management.
 

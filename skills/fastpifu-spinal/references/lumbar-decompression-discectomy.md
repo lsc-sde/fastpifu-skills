@@ -5,7 +5,8 @@
 
 ## Scope
 
-Posterior lumbar decompression or discectomy (2nd priority after injections). Benchmark: 2 appointments pre-procedure and 1 post-procedure.
+Posterior lumbar decompression or discectomy (2nd priority after injections).
+Benchmark: 2 appointments pre-procedure and 1 post-procedure.
 
 ## PIFU — suitable for patient-initiated follow-up
 

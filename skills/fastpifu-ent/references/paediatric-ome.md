@@ -5,7 +5,8 @@
 
 ## Scope
 
-Children with ≥3-month hearing difficulty, grommets (±adenoidectomy) where hearing aids declined/unsuitable. Paediatric pathway.
+Children with ≥3-month hearing difficulty, grommets (±adenoidectomy) where hearing aids declined/unsuitable.
+Paediatric pathway.
 
 ## PIFU — suitable for patient-initiated follow-up
 

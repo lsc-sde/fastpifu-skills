@@ -5,7 +5,8 @@
 
 ## Scope
 
-Cross-cutting GIRFT/BAD 'top tips' for deciding follow-up in any dermatology pathway. Read alongside the condition-specific files.
+Cross-cutting GIRFT/BAD 'top tips' for deciding follow-up in any dermatology pathway.
+Read alongside the condition-specific files.
 
 ## PIFU — suitable for patient-initiated follow-up
 
@@ -26,4 +27,4 @@ Cross-cutting GIRFT/BAD 'top tips' for deciding follow-up in any dermatology pat
 
 ## Source
 
-GIRFT/BAD Dermatology Follow-Up 'Top Tips' (2023, 2026 updates). 
+GIRFT/BAD Dermatology Follow-Up 'Top Tips' (2023, 2026 updates).

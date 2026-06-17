@@ -21,4 +21,5 @@ AK is usually treated and discharged at first secondary-care appointment (BAD 20
 
 ## Source
 
-BAD AK guideline (2017). GIRFT Outpatient Operational Guide, Module 2: Standardising follow-up protocols (updated June 2026).
+BAD AK guideline (2017).
+GIRFT Outpatient Operational Guide, Module 2: Standardising follow-up protocols (updated June 2026).

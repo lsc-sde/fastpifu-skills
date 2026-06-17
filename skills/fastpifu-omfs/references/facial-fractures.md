@@ -5,7 +5,8 @@
 
 ## Scope
 
-Open reduction/fixation or closed reduction of facial fractures. Excludes children with developing dentition / growing condyles, and late orbital problems (e.g. enophthalmos).
+Open reduction/fixation or closed reduction of facial fractures.
+Excludes children with developing dentition / growing condyles, and late orbital problems (e.g. enophthalmos).
 
 ## PIFU — suitable for patient-initiated follow-up
 
@@ -26,4 +27,5 @@ Early review 10–14 days; mandibular final review 8–12 weeks.
 
 ## Source
 
-BAOMS SIGs. GIRFT Outpatient Operational Guide, Module 2: Standardising follow-up protocols (updated June 2026).
+BAOMS SIGs.
+GIRFT Outpatient Operational Guide, Module 2: Standardising follow-up protocols (updated June 2026).

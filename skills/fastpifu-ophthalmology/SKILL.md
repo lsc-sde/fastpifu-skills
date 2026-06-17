@@ -11,8 +11,8 @@ in the orchestrator system prompt. This file is ophthalmology-specific only. -->
 
 # FastPIFU — Ophthalmology
 
-Ophthalmology PIFU assessment. Routing, cautions, and hard rules specific to ophthalmology; apply
-under the FastPIFU orchestrator's universal operating instructions.
+Ophthalmology PIFU assessment.
+Routing, cautions, and hard rules specific to ophthalmology; apply under the FastPIFU orchestrator's universal operating instructions.
 
 ## Condition routing
 

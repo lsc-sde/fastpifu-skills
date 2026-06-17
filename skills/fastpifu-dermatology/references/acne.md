@@ -21,4 +21,5 @@ Most acne is managed in primary care per NICE; secondary care for specified indi
 
 ## Source
 
-NICE acne guidance. GIRFT Outpatient Operational Guide, Module 2: Standardising follow-up protocols (updated June 2026).
+NICE acne guidance.
+GIRFT Outpatient Operational Guide, Module 2: Standardising follow-up protocols (updated June 2026).

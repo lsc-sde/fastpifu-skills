@@ -5,7 +5,8 @@
 
 ## Scope
 
-cSCC follow-up by risk category (BAD 2020). High-risk may be safely managed with PSFU.
+cSCC follow-up by risk category (BAD 2020).
+High-risk may be safely managed with PSFU.
 
 ## PIFU — suitable for patient-initiated follow-up
 
@@ -32,4 +33,5 @@ cSCC follow-up by risk category (BAD 2020). High-risk may be safely managed with
 
 ## Source
 
-BAD cSCC guideline (2020). GIRFT Outpatient Operational Guide, Module 2: Standardising follow-up protocols (updated June 2026).
+BAD cSCC guideline (2020).
+GIRFT Outpatient Operational Guide, Module 2: Standardising follow-up protocols (updated June 2026).

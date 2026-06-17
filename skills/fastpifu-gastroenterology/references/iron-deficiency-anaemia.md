@@ -35,4 +35,5 @@ Primary-care FBC at 3, 6, 12, 24 months (NICE).
 
 ## Source
 
-NICE/BSG IDA guidance. GIRFT Outpatient Operational Guide, Module 2: Standardising follow-up protocols (updated June 2026).
+NICE/BSG IDA guidance.
+GIRFT Outpatient Operational Guide, Module 2: Standardising follow-up protocols (updated June 2026).

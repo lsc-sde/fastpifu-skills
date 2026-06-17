@@ -27,4 +27,5 @@ PIFU 12 months (pre-surgery) or 6–12 weeks (post-op non-complex).
 
 ## Source
 
-GIRFT hand pathway. GIRFT Outpatient Operational Guide, Module 2: Standardising follow-up protocols (updated June 2026).
+GIRFT hand pathway.
+GIRFT Outpatient Operational Guide, Module 2: Standardising follow-up protocols (updated June 2026).

@@ -5,15 +5,14 @@
 
 ## Scope
 
-Incidental or previously unknown isolated LBBB on ECG (including findings from primary care,
-surgical pre-admission, or non-cardiology specialties). An echocardiogram is requested unless a
-recent one is available. If ACS is suspected, follow the chest pain pathway instead.
+Incidental or previously unknown isolated LBBB on ECG (including findings from primary care, surgical pre-admission, or non-cardiology specialties).
+An echocardiogram is requested unless a recent one is available.
+If ACS is suspected, follow the chest pain pathway instead.
 
 ## PIFU — suitable for patient-initiated follow-up
 
-- Criterion: Referral required but underlying condition (other than valve disease/heart failure)
-  suits patient-initiated review. Supported when: treatment initiated and referral made to the
-  appropriate clinic, with no surveillance-mandating structural disease.
+- Criterion: Referral required but underlying condition (other than valve disease/heart failure) suits patient-initiated review.
+  Supported when: treatment initiated and referral made to the appropriate clinic, with no surveillance-mandating structural disease.
 
 ## RETAIN_FOLLOW_UP — timed specialist follow-up still needed
 
@@ -23,9 +22,8 @@ recent one is available. If ACS is suspected, follow the chest pain pathway inst
 
 ## DISCHARGE — no ongoing specialist follow-up needed
 
-- LBBB without concerning history or investigation (including a normal echo) — does NOT require
-  referral to cardiology. Supported when: echo and history are unremarkable and no structural
-  disease is present.
+- LBBB without concerning history or investigation (including a normal echo) — does NOT require referral to cardiology.
+  Supported when: echo and history are unremarkable and no structural disease is present.
 
 ## Borderline / uncertain (resolve to RETAIN_FOLLOW_UP, lower confidence)
 

@@ -5,7 +5,8 @@
 
 ## Scope
 
-Outpatient banding or injection. Rectal bleeding must be investigated first.
+Outpatient banding or injection.
+Rectal bleeding must be investigated first.
 
 ## PIFU — suitable for patient-initiated follow-up
 

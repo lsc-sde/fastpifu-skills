@@ -5,7 +5,8 @@
 
 ## Scope
 
-Skin lesions of the head and neck (melanoma, cSCC, BCC, AK, SCC in situ). Excludes major head-and-neck cancer.
+Skin lesions of the head and neck (melanoma, cSCC, BCC, AK, SCC in situ).
+Excludes major head-and-neck cancer.
 
 ## PIFU — suitable for patient-initiated follow-up
 
@@ -21,4 +22,5 @@ Skin lesions of the head and neck (melanoma, cSCC, BCC, AK, SCC in situ). Exclud
 
 ## Source
 
-2023 GIRFT/BAD Follow-up 'Top Tips' (2026 updates). GIRFT Outpatient Operational Guide, Module 2: Standardising follow-up protocols (updated June 2026).
+2023 GIRFT/BAD Follow-up 'Top Tips' (2026 updates).
+GIRFT Outpatient Operational Guide, Module 2: Standardising follow-up protocols (updated June 2026).

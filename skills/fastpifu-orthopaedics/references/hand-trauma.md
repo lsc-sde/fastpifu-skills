@@ -21,4 +21,5 @@ ED/MIU-presenting hand lacerations, cuts, trauma and bite wounds.
 
 ## Source
 
-GIRFT hand pathway. GIRFT Outpatient Operational Guide, Module 2: Standardising follow-up protocols (updated June 2026).
+GIRFT hand pathway.
+GIRFT Outpatient Operational Guide, Module 2: Standardising follow-up protocols (updated June 2026).

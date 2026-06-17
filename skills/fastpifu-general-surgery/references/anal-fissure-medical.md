@@ -5,7 +5,8 @@
 
 ## Scope
 
-Medically managed anal fissure. Rectal bleeding must be investigated first.
+Medically managed anal fissure.
+Rectal bleeding must be investigated first.
 
 ## PIFU — suitable for patient-initiated follow-up
 

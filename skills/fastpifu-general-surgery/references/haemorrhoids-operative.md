@@ -5,7 +5,8 @@
 
 ## Scope
 
-Day-case operative haemorrhoid treatment. Rectal bleeding must be investigated first.
+Day-case operative haemorrhoid treatment.
+Rectal bleeding must be investigated first.
 
 ## PIFU — suitable for patient-initiated follow-up
 

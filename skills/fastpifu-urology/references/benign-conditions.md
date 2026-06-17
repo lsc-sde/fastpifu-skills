@@ -5,19 +5,28 @@
 
 ## Scope
 
-Benign conditions managed on discharge-PIFU or review-PIFU with defined patient triggers for contact and a discharge timeline. Each sub-condition below names its trigger and timeline.
+Benign conditions managed on discharge-PIFU or review-PIFU with defined patient triggers for contact and a discharge timeline.
+Each sub-condition below names its trigger and timeline.
 
 ## PIFU — suitable for patient-initiated follow-up
 
-- Stones, post-stone-surgery (discharge-PIFU): triggers — pain, bleeding and/or infection (post-op); new/continuing loin pain, unexplained fevers, antibiotic-unresponsive UTI, new haematuria (review-PIFU). Stones review-PIFU: non-F2F clinical review at 2 years with CT.
-- Post-operative bladder-outlet obstruction (discharge-PIFU): trigger — poor flow and/or ongoing frequency/urgency/incontinence after 3 months despite treatment. Discharge at 6 months.
-- Erectile dysfunction treatment (discharge-PIFU): trigger — treatment not successful, or pain/swelling on administration. Discharge at 6 months.
+- Stones, post-stone-surgery (discharge-PIFU): triggers — pain, bleeding and/or infection (post-op); new/continuing loin pain, unexplained fevers, antibiotic-unresponsive UTI, new haematuria (review-PIFU).
+  Stones review-PIFU: non-F2F clinical review at 2 years with CT.
+- Post-operative bladder-outlet obstruction (discharge-PIFU): trigger — poor flow and/or ongoing frequency/urgency/incontinence after 3 months despite treatment.
+  Discharge at 6 months.
+- Erectile dysfunction treatment (discharge-PIFU): trigger — treatment not successful, or pain/swelling on administration.
+  Discharge at 6 months.
 - LUTS / overactive bladder on Botox (review-PIFU): trigger — worsening LUTS; seen F2F on the cystoscopy/Botox list.
-- Bladder pain syndrome / interstitial cystitis (discharge-PIFU): trigger — significant change/progression of pain, urgency, frequency, proven recurrent UTIs. Discharge at 2 years.
-- Pelvic floor disorders / self-change ring pessary (discharge-PIFU): trigger — persistence/worsening for which the patient wants further assessment. Discharge at 2 years.
-- Long-term ISC (discharge-PIFU): trigger — difficulty passing catheter, recurrent UTIs, haematuria. Discharge at 1 year.
-- Post-Peyronie's corrective surgery (discharge-PIFU): trigger — pain/swelling after 4 weeks, failure of correction, or declining function at 3 months warranting intervention. Discharge at 3 months.
-- Recurrent UTI on management pathway (discharge-PIFU): trigger — recurrent UTI-suggestive symptoms or visible haematuria despite appropriate treatment. Discharge to GP at 1 year.
+- Bladder pain syndrome / interstitial cystitis (discharge-PIFU): trigger — significant change/progression of pain, urgency, frequency, proven recurrent UTIs.
+  Discharge at 2 years.
+- Pelvic floor disorders / self-change ring pessary (discharge-PIFU): trigger — persistence/worsening for which the patient wants further assessment.
+  Discharge at 2 years.
+- Long-term ISC (discharge-PIFU): trigger — difficulty passing catheter, recurrent UTIs, haematuria.
+  Discharge at 1 year.
+- Post-Peyronie's corrective surgery (discharge-PIFU): trigger — pain/swelling after 4 weeks, failure of correction, or declining function at 3 months warranting intervention.
+  Discharge at 3 months.
+- Recurrent UTI on management pathway (discharge-PIFU): trigger — recurrent UTI-suggestive symptoms or visible haematuria despite appropriate treatment.
+  Discharge to GP at 1 year.
 
 ## RETAIN_FOLLOW_UP — timed specialist follow-up still needed
 

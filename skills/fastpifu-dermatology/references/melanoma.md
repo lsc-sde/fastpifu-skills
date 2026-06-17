@@ -5,7 +5,8 @@
 
 ## Scope
 
-Cutaneous melanoma, staged follow-up per NICE NG14 and the MelFo reduced-frequency schedule. Early detection of recurrence allows prompt treatment; self-examination supports PSFU/PIFU.
+Cutaneous melanoma, staged follow-up per NICE NG14 and the MelFo reduced-frequency schedule.
+Early detection of recurrence allows prompt treatment; self-examination supports PSFU/PIFU.
 
 ## PIFU — suitable for patient-initiated follow-up
 
@@ -38,4 +39,5 @@ Stage-dependent per NICE NG14 / MelFo; PIFU/PSFU replaces routine slots where se
 
 ## Source
 
-NICE NG14 (2022); MelFo Study UK. GIRFT Outpatient Operational Guide, Module 2: Standardising follow-up protocols (updated June 2026).
+NICE NG14 (2022); MelFo Study UK.
+GIRFT Outpatient Operational Guide, Module 2: Standardising follow-up protocols (updated June 2026).

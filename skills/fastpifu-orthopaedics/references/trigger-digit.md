@@ -26,4 +26,5 @@ PIFU 3 months (conditional).
 
 ## Source
 
-GIRFT hand pathway. GIRFT Outpatient Operational Guide, Module 2: Standardising follow-up protocols (updated June 2026).
+GIRFT hand pathway.
+GIRFT Outpatient Operational Guide, Module 2: Standardising follow-up protocols (updated June 2026).

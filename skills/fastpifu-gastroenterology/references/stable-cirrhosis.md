@@ -5,11 +5,13 @@
 
 ## Scope
 
-Patients with established cirrhosis needing structured surveillance. PIFU runs in parallel to surveillance, which is independent of clinic.
+Patients with established cirrhosis needing structured surveillance.
+PIFU runs in parallel to surveillance, which is independent of clinic.
 
 ## PIFU — suitable for patient-initiated follow-up
 
-- Stable cirrhosis with a safe and robust PIFU/remote-monitoring and DNA-tracking system in place — review can be annual, surveillance results or symptoms trigger earlier review. PIFU can be lifelong.
+- Stable cirrhosis with a safe and robust PIFU/remote-monitoring and DNA-tracking system in place — review can be annual, surveillance results or symptoms trigger earlier review.
+  PIFU can be lifelong.
 - Patient educated on signs/symptoms of concern and how to contact the service.
 
 ## RETAIN_FOLLOW_UP — timed specialist follow-up still needed
@@ -32,7 +34,8 @@ Patients with established cirrhosis needing structured surveillance. PIFU runs i
 
 ## Surveillance / review interval
 
-6-monthly investigations/symptom review (USS+AFP 6-monthly if HCC surveillance indicated); portal-hypertension and bone-health checks at mandated intervals. Annual review if robust PIFU/remote monitoring in place.
+6-monthly investigations/symptom review (USS+AFP 6-monthly if HCC surveillance indicated); portal-hypertension and bone-health checks at mandated intervals.
+Annual review if robust PIFU/remote monitoring in place.
 
 ## Source
 

@@ -5,7 +5,8 @@
 
 ## Scope
 
-High ferritin and HFE-related haemochromatosis. Much can be triaged via A&G; confirmed C282Y HH needs secondary-care follow-up.
+High ferritin and HFE-related haemochromatosis.
+Much can be triaged via A&G; confirmed C282Y HH needs secondary-care follow-up.
 
 ## PIFU — suitable for patient-initiated follow-up
 
@@ -32,7 +33,8 @@ High ferritin and HFE-related haemochromatosis. Much can be triaged via A&G; con
 
 ## Surveillance / review interval
 
-Maintenance bloods ≥6-monthly; venesection as bloods mandate. Life-long for non-cirrhotic C282Y HH.
+Maintenance bloods ≥6-monthly; venesection as bloods mandate.
+Life-long for non-cirrhotic C282Y HH.
 
 ## Source
 

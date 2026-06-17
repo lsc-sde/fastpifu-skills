@@ -5,7 +5,9 @@
 
 ## Scope
 
-AIS pathway (British Scoliosis Society). PIFU used whenever clinically appropriate, not as an alternative to discharge. Paediatric/adolescent pathway.
+AIS pathway (British Scoliosis Society).
+PIFU used whenever clinically appropriate, not as an alternative to discharge.
+Paediatric/adolescent pathway.
 
 ## PIFU — suitable for patient-initiated follow-up
 
@@ -27,4 +29,5 @@ AIS pathway (British Scoliosis Society). PIFU used whenever clinically appropria
 
 ## Source
 
-British Scoliosis Society; Further Faster Spinal Services Handbook. GIRFT Outpatient Operational Guide, Module 2: Standardising follow-up protocols (updated June 2026).
+British Scoliosis Society; Further Faster Spinal Services Handbook.
+GIRFT Outpatient Operational Guide, Module 2: Standardising follow-up protocols (updated June 2026).

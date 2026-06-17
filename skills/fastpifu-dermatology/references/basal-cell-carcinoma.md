@@ -5,7 +5,8 @@
 
 ## Scope
 
-BCC follow-up (BAD 2021). Most single BCCs are discharged post-operatively.
+BCC follow-up (BAD 2021).
+Most single BCCs are discharged post-operatively.
 
 ## PIFU — suitable for patient-initiated follow-up
 
@@ -30,4 +31,5 @@ BCC follow-up (BAD 2021). Most single BCCs are discharged post-operatively.
 
 ## Source
 
-BAD BCC guideline (2021). GIRFT Outpatient Operational Guide, Module 2: Standardising follow-up protocols (updated June 2026).
+BAD BCC guideline (2021).
+GIRFT Outpatient Operational Guide, Module 2: Standardising follow-up protocols (updated June 2026).

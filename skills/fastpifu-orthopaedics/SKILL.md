@@ -11,8 +11,8 @@ in the orchestrator system prompt. This file is orthopaedics-specific only. -->
 
 # FastPIFU — Orthopaedics
 
-Orthopaedics PIFU assessment. Routing, cautions, and hard rules specific to orthopaedics; apply
-under the FastPIFU orchestrator's universal operating instructions.
+Orthopaedics PIFU assessment.
+Routing, cautions, and hard rules specific to orthopaedics; apply under the FastPIFU orchestrator's universal operating instructions.
 
 ## Condition routing
 

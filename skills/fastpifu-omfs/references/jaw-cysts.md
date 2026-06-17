@@ -26,4 +26,5 @@ Large cysts 6–12 months; keratocysts annually to 5 years.
 
 ## Source
 
-BAOMS SIGs. GIRFT Outpatient Operational Guide, Module 2: Standardising follow-up protocols (updated June 2026).
+BAOMS SIGs.
+GIRFT Outpatient Operational Guide, Module 2: Standardising follow-up protocols (updated June 2026).

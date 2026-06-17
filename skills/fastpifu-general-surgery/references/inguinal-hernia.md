@@ -17,7 +17,8 @@ Elective day-case inguinal hernia repair.
 
 ## DISCHARGE — no ongoing specialist follow-up needed
 
-- Uncomplicated repair — no routine follow-up; discharge. Enrol in the BHS hernia registry for PROMs.
+- Uncomplicated repair — no routine follow-up; discharge.
+  Enrol in the BHS hernia registry for PROMs.
 
 ## Source
 

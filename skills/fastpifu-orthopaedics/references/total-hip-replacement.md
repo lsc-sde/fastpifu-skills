@@ -13,7 +13,8 @@ Uncomplicated elective primary THR (the ~85% standard-recovery majority).
 
 ## RETAIN_FOLLOW_UP — timed specialist follow-up still needed
 
-- One appointment (virtual or F2F) at 6 weeks–3 months post-surgery with the surgical team (CNS/ACP/physio/SCP). No repeat X-ray.
+- One appointment (virtual or F2F) at 6 weeks–3 months post-surgery with the surgical team (CNS/ACP/physio/SCP).
+  No repeat X-ray.
 
 ## DISCHARGE — no ongoing specialist follow-up needed
 

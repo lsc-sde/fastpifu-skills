@@ -5,7 +5,8 @@
 
 ## Scope
 
-Risk-stratified cancer surveillance suited to CNS-led remote monitoring (app/letter/telephone by patient choice). Surveillance is independent of routine clinic attendance.
+Risk-stratified cancer surveillance suited to CNS-led remote monitoring (app/letter/telephone by patient choice).
+Surveillance is independent of routine clinic attendance.
 
 ## PIFU — suitable for patient-initiated follow-up
 
@@ -14,7 +15,8 @@ Risk-stratified cancer surveillance suited to CNS-led remote monitoring (app/let
 ## RETAIN_FOLLOW_UP — timed specialist follow-up still needed
 
 - Bladder (cystectomy, by risk): bloods/CTU+thorax/USS/GFR at 3, 6, 12 months and yearly to 6 years (high-risk CTU at 3/6/12 months); then 2-yearly surveillance CT-TAP per shared decision.
-- Prostate on active surveillance: PSA 3-monthly, MRI at 1 year. Post-radical treatment: PSA + function impact at 6–12 weeks then 6-monthly with a treatment-team re-referral threshold.
+- Prostate on active surveillance: PSA 3-monthly, MRI at 1 year.
+  Post-radical treatment: PSA + function impact at 6–12 weeks then 6-monthly with a treatment-team re-referral threshold.
 - Kidney (by risk): CT chest/abdomen/pelvis at intervals (low-risk 1/3/5 years; intermediate 6/12 months then yearly to 5 years; high-risk 3/6/12 months, 18 months, yearly to 5 years then 2-yearly).
 - Bosniak 2F cysts: CT with contrast at 6, 18, 30, 48 months.
 

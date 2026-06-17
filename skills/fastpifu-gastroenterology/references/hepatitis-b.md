@@ -5,11 +5,13 @@
 
 ## Scope
 
-Chronic HBV referred with markers of current infection. Much is automatable / remote.
+Chronic HBV referred with markers of current infection.
+Much is automatable / remote.
 
 ## PIFU — suitable for patient-initiated follow-up
 
-- Virally suppressed, stable, adherent, no renal risk factors — remote/PIFU monitoring, 6–12 monthly (12-monthly for suitable stable patients). Suitable for automation.
+- Virally suppressed, stable, adherent, no renal risk factors — remote/PIFU monitoring, 6–12 monthly (12-monthly for suitable stable patients).
+  Suitable for automation.
 
 ## RETAIN_FOLLOW_UP — timed specialist follow-up still needed
 

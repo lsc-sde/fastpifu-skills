@@ -5,7 +5,8 @@
 
 ## Scope
 
-Day-case shoulder arthroscopy. Recovery milestones gate PIFU.
+Day-case shoulder arthroscopy.
+Recovery milestones gate PIFU.
 
 ## PIFU — suitable for patient-initiated follow-up
 
@@ -24,7 +25,8 @@ Day-case shoulder arthroscopy. Recovery milestones gate PIFU.
 
 ## Surveillance / review interval
 
-SAD: 1st at 6–8 wk then PIFU. RCR: 6–8 wk and 3–6 mo then PIFU.
+SAD: 1st at 6–8 wk then PIFU.
+RCR: 6–8 wk and 3–6 mo then PIFU.
 
 ## Source
 

@@ -11,8 +11,8 @@ in the orchestrator system prompt. This file is gastroenterology-specific only. 
 
 # FastPIFU — Gastroenterology
 
-Gastroenterology PIFU assessment. Routing, cautions, and hard rules specific to gastroenterology; apply
-under the FastPIFU orchestrator's universal operating instructions.
+Gastroenterology PIFU assessment.
+Routing, cautions, and hard rules specific to gastroenterology; apply under the FastPIFU orchestrator's universal operating instructions.
 
 ## Condition routing
 

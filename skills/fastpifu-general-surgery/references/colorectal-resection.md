@@ -5,7 +5,8 @@
 
 ## Scope
 
-Inpatient elective colorectal resection (not the cancer-surgery referral pathway). Disposition depends on pathology.
+Inpatient elective colorectal resection (not the cancer-surgery referral pathway).
+Disposition depends on pathology.
 
 ## PIFU — suitable for patient-initiated follow-up
 

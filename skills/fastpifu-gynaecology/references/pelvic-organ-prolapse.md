@@ -5,13 +5,15 @@
 
 ## Scope
 
-Symptomatic POP managed conservatively, with pessaries, or surgically. Asymptomatic incidental prolapse does not require referral.
+Symptomatic POP managed conservatively, with pessaries, or surgically.
+Asymptomatic incidental prolapse does not require referral.
 
 ## PIFU — suitable for patient-initiated follow-up
 
 - Patient close to the BMI cut-off listed for surgery, to allow time for weight loss.
 - Conservatively managed patient who may want further assessment/treatment.
-- Post-operative patient, to assess for early recurrence — with clear contact information and direct access back to the surgical team. PIFU limited to 6–12 months.
+- Post-operative patient, to assess for early recurrence — with clear contact information and direct access back to the surgical team.
+  PIFU limited to 6–12 months.
 
 ## RETAIN_FOLLOW_UP — timed specialist follow-up still needed
 

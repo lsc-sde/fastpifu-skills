@@ -11,8 +11,8 @@ in the orchestrator system prompt. This file is gynaecology-specific only. -->
 
 # FastPIFU — Gynaecology
 
-Gynaecology PIFU assessment. Routing, cautions, and hard rules specific to gynaecology; apply
-under the FastPIFU orchestrator's universal operating instructions.
+Gynaecology PIFU assessment.
+Routing, cautions, and hard rules specific to gynaecology; apply under the FastPIFU orchestrator's universal operating instructions.
 
 ## Condition routing
 

@@ -11,8 +11,8 @@ in the orchestrator system prompt. This file is oral and maxillofacial surgery-s
 
 # FastPIFU — Oral and maxillofacial surgery
 
-Oral and maxillofacial surgery PIFU assessment. Routing, cautions, and hard rules specific to oral and maxillofacial surgery; apply
-under the FastPIFU orchestrator's universal operating instructions.
+Oral and maxillofacial surgery PIFU assessment.
+Routing, cautions, and hard rules specific to oral and maxillofacial surgery; apply under the FastPIFU orchestrator's universal operating instructions.
 
 ## Condition routing
 

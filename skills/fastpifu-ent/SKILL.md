@@ -11,8 +11,8 @@ in the orchestrator system prompt. This file is ent-specific only. -->
 
 # FastPIFU — ENT
 
-ENT PIFU assessment. Routing, cautions, and hard rules specific to ent; apply
-under the FastPIFU orchestrator's universal operating instructions.
+ENT PIFU assessment.
+Routing, cautions, and hard rules specific to ent; apply under the FastPIFU orchestrator's universal operating instructions.
 
 ## Condition routing
 

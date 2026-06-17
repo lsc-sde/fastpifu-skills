@@ -18,7 +18,8 @@ Elective day-case paraumbilical hernia repair.
 
 ## DISCHARGE — no ongoing specialist follow-up needed
 
-- Uncomplicated small primary hernia — no routine follow-up; discharge. Enrol in the BHS hernia registry.
+- Uncomplicated small primary hernia — no routine follow-up; discharge.
+  Enrol in the BHS hernia registry.
 
 ## Source
 

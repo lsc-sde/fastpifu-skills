@@ -17,7 +17,8 @@ Allergen identification via patch testing.
 
 ## DISCHARGE — no ongoing specialist follow-up needed
 
-- Relevant allergen identified, avoidance and treatment plan provided — discharge where appropriate. (Code patch-test visits as PT, not follow-up.)
+- Relevant allergen identified, avoidance and treatment plan provided — discharge where appropriate.
+  (Code patch-test visits as PT, not follow-up.)
 
 ## Source
 

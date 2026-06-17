@@ -5,7 +5,8 @@
 
 ## Scope
 
-Day-case adenotonsillectomy for persistent OSA, recurrent tonsillitis or other commissioned indications. Paediatric pathway.
+Day-case adenotonsillectomy for persistent OSA, recurrent tonsillitis or other commissioned indications.
+Paediatric pathway.
 
 ## PIFU — suitable for patient-initiated follow-up
 

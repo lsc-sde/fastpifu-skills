@@ -11,8 +11,8 @@ in the orchestrator system prompt. This file is urology-specific only. -->
 
 # FastPIFU — Urology
 
-Urology PIFU assessment. Routing, cautions, and hard rules specific to urology; apply
-under the FastPIFU orchestrator's universal operating instructions.
+Urology PIFU assessment.
+Routing, cautions, and hard rules specific to urology; apply under the FastPIFU orchestrator's universal operating instructions.
 
 ## Condition routing
 

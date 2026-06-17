@@ -21,4 +21,5 @@ TMJ problems (myogenous/arthrogenous) and myofascial pain, including Botox for t
 
 ## Source
 
-FDS guidance; BAOMS SIGs. GIRFT Outpatient Operational Guide, Module 2: Standardising follow-up protocols (updated June 2026).
+FDS guidance; BAOMS SIGs.
+GIRFT Outpatient Operational Guide, Module 2: Standardising follow-up protocols (updated June 2026).
