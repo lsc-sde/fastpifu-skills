@@ -1,0 +1,18 @@
+What PIFU is:
+https://www.england.nhs.uk/long-read/implementing-pifu-guidance-local-health-care-systems/
+
+Arrhythmia PIFU guidelines:
+https://www.england.nhs.uk/long-read/setting-up-patient-initiated-follow-up-services-for-people-with-arrhythmia/
+
+Valve disease PIFU guidelines:
+https://www.england.nhs.uk/long-read/guide-to-implementing-pifu-imaging-mild-to-moderate-heart-valve-disease/
+
+Heart failure PIFU guidelines:
+https://www.england.nhs.uk/wp-content/uploads/2022/05/B1212-setting-up-patient-initiated-follow-up-services-for-people-with-heart-failure.pdf
+
+GIRFT Outpatient Operational Guide (module 2) - cardiology pathways (AF, aortic stenosis, chest pain, LBBB, heart failure):
+https://gettingitrightfirsttime.co.uk/wp-content/uploads/2026/06/Outpatient-Operational-Guide-module-2-standardising-follow-up-version-1.3-June-Update.pdf
+(Note: v1.2 March 2026 redirects to this v1.3 June 2026 update; cardiology-section content
+confirmed unchanged between versions as of 2 July 2026 re-verification. This URL matches the
+"Original source" field recorded in girft-outpatient-cardiology-extracted-2026-07-02.docx.)
+
